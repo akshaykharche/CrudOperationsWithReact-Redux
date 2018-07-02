@@ -1,0 +1,18 @@
+[
+	{
+		"id": "1",
+		"first": "Akshay",
+		"last": "Kharche",
+		"email": "akshay.kharche@gmail.com",
+		"phone": "7030046565",
+		"status": "Active"
+	},
+	{
+		"id": "2",
+		"first": "Aakash",
+		"last": "Kharche",
+		"email": "aakash.kharche@gmail.com",
+		"phone": "7030046565",
+		"status": "Inactive"
+    }
+]

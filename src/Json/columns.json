@@ -1,0 +1,26 @@
+[
+	{
+		"dataField": "id",
+		"text": "ID"
+	},
+	{
+		"dataField": "first",
+		"text": "First Name"
+	},
+	{
+		"dataField": "last",
+		"text": "Last Name"
+	},
+	{
+		"dataField": "email",
+		"text": "Email"
+	},
+	{
+		"dataField": "phone",
+		"text": "Phone Number"
+	},
+	{
+		"dataField": "status",
+		"text": "Status"
+	}
+]
